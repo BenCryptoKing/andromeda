@@ -1,0 +1,9 @@
+Building Andromeda
+
+See doc/readme-qt.rst for instructions on building Andromeda-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Andromeda.
+
+See doc/build-*.txt for instructions on building andromedad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Andromeda.
